@@ -1,0 +1,246 @@
+Chipotle Buritto Bowl
+850
+3.99
+Chipotle Mexican Grill
+275 Greenwich St
+/Users/user/honor01/images/chipotle_buritto_bowl.jpeg
+Chipotle Chicken Tacos
+615
+8.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_chicken_tacos.jpeg
+Chicken Over Rice
+1000
+2.99
+Food Cart
+270 Greenwhich St
+:/images/images/food_cart_chicken_over_rice.jpeg
+Steak Burritos
+535
+1.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_steak_burrito.jpeg
+Veggie bowl
+535
+14.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_veggie_bowl.jpeg
+Carnitas burrito
+545
+14.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_carnitas_burrito.jpeg
+Chicken bowl
+850
+9.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_chicken_bowl.jpeg
+Veggie burrito
+860
+10.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_veggie_burrito.jpeg
+Barbacoa soft tacos
+880
+10.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_barbacoa_soft_tacos.jpeg
+Steak burrito
+1045
+3.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_steak_burrito.jpeg
+Barbacoa burrito
+1085
+14.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_barbacoa_burrito.jpeg
+Chicken burrito
+1095
+10.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_chicken_burrito.jpeg
+Chicken soft tacos, chips and guacamole
+1330
+7.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_chicken_soft_tacos_chips_and_guacamole.jpeg
+Veggie bowl, chips and guacamole
+1330
+7.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_veggie_bowl_chips_and_guacamole.jpeg
+Steak bowl, chips and fresh tomato salsa
+1340
+13.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_steak_bowl_chips_and_fresh_tomato_salsa.jpeg
+Barbacoa burrito, chips and guacamole
+1770
+6.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_barbacoa_burrito_chips_and_guacamole
+Steak burrito, chips
+1790
+14.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_steak_burrito_chips.jpeg
+Chicken burrito, chips and guacamole
+1795
+12.99
+Chipotle Mexican Grill
+275 Greenwich St
+:/images/images/chipotle_chicken_burrito_chips_and_guacamole.jpeg
+Bacon, Egg  & Cheese Biscuit
+460
+11.99
+McDonalds
+167 Chamber St
+:/images/images/bacon_egg___cheese_biscuit.jpeg
+Egg McMuffin®
+310
+0.99
+McDonalds
+167 Chamber St
+:/images/images/egg_mcmuffin.jpeg
+Sausage McMuffin®
+400
+10.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_mcmuffin.jpeg
+Sausage McMuffin® with Egg
+480
+4.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_mcmuffin_with_egg.jpeg
+Sausage Biscuit
+460
+6.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_biscuit.jpeg
+Sausage Biscuit  with Egg
+530
+2.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_biscuit__with_egg.jpeg
+Bacon, Egg & Cheese McGriddles
+430
+2.99
+McDonalds
+167 Chamber St
+:/images/images/bacon_egg__cheese_mcgriddles.jpeg
+Sausage McGriddles®
+430
+5.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_mcgriddles.jpeg
+Sausage, Egg & Cheese McGriddles®
+550
+14.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_egg__cheese_mcgriddles.jpeg
+Big Breakfast®
+760
+1.99
+McDonalds
+167 Chamber St
+:/images/images/big_breakfast.jpeg
+Big Breakfast® with Hotcakes
+1340
+10.99
+McDonalds
+167 Chamber St
+:/images/images/big_breakfast_with_hotcakes.jpeg
+Hotcakes and Sausage
+770
+12.99
+McDonalds
+167 Chamber St
+:/images/images/hotcakes_and_sausage.jpeg
+Sausage Burrito
+310
+7.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_burrito.jpeg
+Hash Browns
+140
+5.99
+McDonalds
+167 Chamber St
+:/images/images/hash_browns.jpeg
+Fruit & Maple Oatmeal
+320
+12.99
+McDonalds
+167 Chamber St
+:/images/images/fruit__maple_oatmeal.jpeg
+Egg McMuffin® Meal
+455
+10.99
+McDonalds
+167 Chamber St
+:/images/images/egg_mcmuffin_meal.jpeg
+Sausage McMuffin® with Egg Meal
+625
+7.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_mcmuffin_with_egg_meal.jpeg
+Sausage Biscuit with Egg Meal
+675
+3.99
+McDonalds
+167 Chamber St
+:/images/images/bacon_egg___cheese_biscuit.jpeg
+Bacon, Egg & Cheese Biscuit Meal
+605
+1.99
+McDonalds
+167 Chamber St
+:/images/images/bacon_egg__cheese_biscuit_meal.jpeg
+Bacon, Egg & Cheese McGriddles® Meal
+575
+1.99
+McDonalds
+167 Chamber St
+:/images/images/bacon_egg__cheese_mcgriddles_meal.jpeg
+Sausage, Egg & Cheese McGriddles® Meal
+695
+14.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_egg__cheese_mcgriddles_meal.jpeg
+Sausage McGriddles® Meal
+575
+11.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_mcgriddles_meal.jpeg
+Sausage Burrito Meal
+455
+11.99
+McDonalds
+167 Chamber St
+:/images/images/sausage_burrito_meal.jpeg
